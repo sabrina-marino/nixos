@@ -164,7 +164,6 @@
  "app.drey.Warp"
  "de.haeckerfelix.AudioSharing"
  "com.usebottles.bottles"
- "io.github.diegoivan.pdf_metadata_editor"
  "app.fotema.Fotema"
  "com.hunterwittenborn.Celeste"
  "org.gnome.SoundRecorder"
@@ -181,7 +180,6 @@
  "org.mozilla.Thunderbird"
  "org.gimp.GIMP"
  "org.inkscape.Inkscape"
- "org.audacityteam.Audacity"
  "org.libreoffice.LibreOffice"
 
   ];
