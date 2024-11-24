@@ -171,6 +171,7 @@
  "app.drey.Dialect"
  "garden.jamie.Morphosis"
  "com.github.unrud.VideoDownloader"
+ "de.leopoldluley.Clapgrep"
 #kde
  "org.kde.krita"
  "org.kde.kdenlive"
