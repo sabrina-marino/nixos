@@ -185,6 +185,7 @@
  "com.github.unrud.VideoDownloader"
  "de.leopoldluley.Clapgrep"
  "io.github.nokse22.asciidraw"
+ "com.github.tchx84.Flatseal"
 #kde
  "org.kde.krita"
  "org.kde.kdenlive"
@@ -196,6 +197,7 @@
  "org.gimp.GIMP"
  "org.inkscape.Inkscape"
  "org.libreoffice.LibreOffice"
+ "com.obsproject.Studio"
 
   ];
 }
