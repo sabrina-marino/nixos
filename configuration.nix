@@ -115,7 +115,7 @@
   hyfetch
   ventoy
   blocky
-  gnome-shell-extension-gsconnect
+  
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
