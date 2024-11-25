@@ -102,8 +102,20 @@
   environment.systemPackages = with pkgs; [
   #  vim # Do not forget to add an editor to edit configuration.nix! The Nano editor is also installed by default.
   #  wget
-    #GNOME
-
+  firefox
+  git
+  grep
+  wget
+  lynx
+  rsync
+  htop
+  yt-dlp
+  ani-cli
+  hugo
+  hyfetch
+  ventoy
+  blocky
+  gnome-shell-extension-gsconnect
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
@@ -172,6 +184,7 @@
  "garden.jamie.Morphosis"
  "com.github.unrud.VideoDownloader"
  "de.leopoldluley.Clapgrep"
+ "io.github.nokse22.asciidraw"
 #kde
  "org.kde.krita"
  "org.kde.kdenlive"
