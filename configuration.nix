@@ -104,7 +104,6 @@
   #  wget
   firefox
   git
-  grep
   wget
   lynx
   rsync
