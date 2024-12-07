@@ -163,7 +163,6 @@
  "com.github.flxzt.rnote"
  "info.febvre.Komikku"
  "io.frama.tractor.carburetor"
- "com.github.johnfactotum.Foliate"
  "com.belmoussaoui.Authenticator"
  "com.mattjakeman.ExtensionManager"
  "de.haeckerfelix.Fragments"
